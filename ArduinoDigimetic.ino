@@ -1,3 +1,7 @@
+// Author : Sirapol S.
+// Hardware test : Arduino UNO
+// 
+// https://github.com/tlbruns/Digimatic
 #include <Watchdog.h>
 
 Watchdog watchdog;
