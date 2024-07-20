@@ -2,7 +2,7 @@
 // Hardware test : Arduino UNO
 // 
 // https://github.com/tlbruns/Digimatic
-#include <Watchdog.h>
+#include <Watchdog.h> // https://github.com/janelia-arduino/Watchdog | version : 3.0.2
 
 Watchdog watchdog;
 
